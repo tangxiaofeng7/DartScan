@@ -1,3 +1,7 @@
+### Show
+
+![cmd](./image/cmd.gif)
+
 ### Useage
 
 更新第三方依赖
@@ -17,7 +21,3 @@ dart bin/main.dart 103.146.179.91 -p 1-65535
 ```
 dart compile exe bin/main.dart -o main
 ```
-
-### Show
-
-![cmd](./image/cmd.gif)
