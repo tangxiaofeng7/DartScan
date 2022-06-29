@@ -2,7 +2,7 @@
 
 ![cmd](./image/cmd.gif)
 
-### Useage
+### Usage
 
 更新第三方依赖
 
